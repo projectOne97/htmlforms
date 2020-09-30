@@ -21,3 +21,9 @@ a {
   color:rgb(120, 235, 255);
   text-decoration:none;
 }
+
+button {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50; /* Green */
+}
